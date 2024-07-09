@@ -4,7 +4,7 @@ Please go through this pdf file for detailed Task.
 
 
 
-For solution fo through project.ipynb file
+For solution go through project.ipynb file
 
 ![image](https://github.com/tusharrewatkar/VW-semantic-segmentation/assets/65078652/892c3e43-0521-4ece-aaa7-d76199615c93)
 
